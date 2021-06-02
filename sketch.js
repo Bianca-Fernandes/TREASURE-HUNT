@@ -25,9 +25,9 @@ function draw() {
     // music.play();
     clear()
     background(bg2)
-    fill("black")
+    fill("white")
     textSize(40);
-    text("TREASURE UNLOCKED",250, 200);
+    text("TREASURE UNLOCKED",250, 150);
   }
   drawSprites()
 }
